@@ -1,5 +1,6 @@
 # 411201130_transporter
 UTS Pemrograman Web Lanjut
-
-Indra Surya Hanjaya
-41120113
+Nama : Indra Surya Hanjaya
+NIM : 41120113
+Universitas Dian Nusantara
+2023
